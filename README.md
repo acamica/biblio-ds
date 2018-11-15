@@ -39,9 +39,9 @@ Si conoces cursos o tutoriales que puedan servir para compartir con otros/as est
 
 **¿Nunca hiciste un Pull Request?**
 1. Crea tu cuenta de Github
-2. Forkea el repositorio a tu cuenta (clickeando en "Fork")
-3. CLickea en el ícono para editar y escribe todos los cambios que quieras en formato [Markdown](https://es.wikipedia.org/wiki/Markdown). Para conocer la sintaxis, [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-4. Haz un [Pull Request] en este repositorio (https://github.com/acamica/biblio-ds/pulls). Nosotros revisaremos lo propuesto para incorporar los cambios :)
+2. Forkea el repositorio a tu cuenta (clickeando en "Fork").
+3. CLickea en el ícono para editar y escribe todos los cambios que quieras en formato [Markdown](https://es.wikipedia.org/wiki/Markdown). Para conocer la sintaxis, [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Guarda los cambios en tu repositorio clickeando en "Commit changes" al final de la pantalla.
+4. Haz un [Pull Request](https://github.com/acamica/biblio-ds/pulls) en el repositorio original. Nosotros revisaremos lo propuesto para incorporar los cambios :)
 
 
 
