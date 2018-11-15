@@ -14,11 +14,16 @@ Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a pu
 ### Python
 - [Curso interactivo de Python](https://www.learnpython.org/es/)
 - [Tutorial de Python Argentina](http://docs.python.org.ar/tutorial/3/index.html)
-- Curso (en inglés) de [fundamentos básicos de python para Data Science edX](https://www.edx.org/es/course/python-basics-for-data-science-ibm): 
+- [Curso de fundamentos básicos de python para Data Science edX](https://www.edx.org/es/course/python-basics-for-data-science-ibm) (en inglés)
+- [Fundamentos de la programación en Python en Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036) (en inglés)
 
 ### Probabilidad y estadística
 - [Curso introductorio en Khan Academy](https://es.khanacademy.org/math/statistics-probability/probability-library)
-- [Lista de cursos sobre distribuciones, estadística y visualización en Khan Academy](https://es.khanacademy.org/math/statistics-probability)
+- [Listado de cursos sobre distribuciones, estadística y visualización en Khan Academy](https://es.khanacademy.org/math/statistics-probability)
+
+### Libros recomendados para acompañar la cursada
+- [Hands-On ML](https://github.com/ageron/handson-ml)
+- [Python For Data Analysis](https://www.amazon.es/Python-Data-Analysis-Wes-McKinney/dp/1491957662/ref=dp_ob_title_bk)
 
 
 ## Cómo colaborar con la bibliografía
