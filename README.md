@@ -37,10 +37,12 @@ Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a pu
 ## Cómo colaborar con la bibliografía
 Si conoces cursos o tutoriales que puedan servir para compartir con otros/as estudiantes como bibliografía inicial puedes hacer un Pull Request para que lo agreguemos a la lista. 
 
-¿Nunca hiciste un Pull Request?
+**¿Nunca hiciste un Pull Request?**
 1. Crea tu cuenta de Github
 2. Forkea el repositorio a tu cuenta (clickeando en "Fork")
-3. Haz un [Pull Request](https://github.com/acamica/biblio-ds/pulls)
+3. CLickea en el ícono para editar y escribe todos los cambios que quieras en formato [Markdown](https://es.wikipedia.org/wiki/Markdown). Para conocer la sintaxis, [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+4. Haz un [Pull Request] en este repositorio (https://github.com/acamica/biblio-ds/pulls). Nosotros revisaremos lo propuesto para incorporar los cambios :)
+
 
 
 
