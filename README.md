@@ -3,7 +3,7 @@ Este es un repo para las y los ansiosos casi-estudiantes de Acámica. Si ya te i
 
 Si no te inscribiste todavía, te esperamos [aquí](https://www.acamica.com/data-science).
 
-Esta lista te puede ser útil como punto de partida para entrar al mundo de ciencia de datos incluso aunque no quieras estudiar Data Science con nosotros. No te vamos a mentir, nos rompe el corazón, pero nos gusta tu compañía aunque sea un rato <3 
+Esta lista te puede ser útil como punto de partida para entrar al mundo de ciencia de datos incluso aunque no quieras estudiar Data Science con nosotros. No te vamos a mentir, nos rompe el corazón, pero nos gusta tu compañía aunque sea una visita breve <3 
 
 *¿Te interesa colaborar a la lista de recursos? Mandanos un PR.*
 
@@ -37,10 +37,12 @@ Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a pu
 ## Cómo colaborar con la bibliografía
 Si conoces cursos o tutoriales que puedan servir para compartir con otros/as estudiantes como bibliografía inicial puedes hacer un Pull Request para que lo agreguemos a la lista. 
 
-¿Nunca hiciste un Pull Request?
+**¿Nunca hiciste un Pull Request?**
 1. Crea tu cuenta de Github
-2. Forkea el repositorio a tu cuenta (clickeando en "Fork")
-3. Haz un [Pull Request](https://github.com/acamica/biblio-ds/pulls)
+2. Forkea el repositorio a tu cuenta (clickeando en "Fork").
+3. CLickea en el ícono para editar y escribe todos los cambios que quieras en formato [Markdown](https://es.wikipedia.org/wiki/Markdown). Para conocer la sintaxis, [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Guarda los cambios en tu repositorio clickeando en "Commit changes" al final de la pantalla.
+4. Haz un [Pull Request](https://github.com/acamica/biblio-ds/pulls) en el repositorio original. Nosotros revisaremos lo propuesto para incorporar los cambios :)
+
 
 
 
