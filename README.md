@@ -1,4 +1,11 @@
-# [Data Science Acámica](https://www.acamica.com/data-science)
+# Recursos previos a Data Science en Acámica
+Este es un repo para las y los ansiosos casi-estudiantes de Acámica. Si ya te inscribiste a una comisión, abajo encontrarás algunos conceptos que te van a ser útiles en la carrera para ir aprendiendo. 
+
+Si no te inscribiste todavía, te esperamos [aquí](https://www.acamica.com/data-science).
+
+Esta lista te puede ser útil como punto de partida para entrar al mundo de ciencia de datos incluso aunque no quieras estudiar Data Science con nosotros. No te vamos a mentir, nos rompe el corazón, pero nos gusta tu compañía aunque sea un rato <3 
+
+*¿Te interesa colaborar a la lista de recursos? Mandanos un PR.*
 
 ## Sobre la carrera
 
@@ -8,7 +15,8 @@ A lo largo de estas entregas iremos recorriendo el workflow típico de data scie
 ![alt text](https://s3.amazonaws.com/resources.acamica.com/contenidos/data-science/pasos_entregas.png)
 
 ## Bibliografía previa recomendada
-No existen requisitos previos para realizar la carrera pero una base en programación y conceptos de probabilidad y estadística van a ser de gran utilidad para aprovechar al máximo la cursada. 
+No existen requisitos previos para realizar la carrera pero una base en programación y conceptos de probabilidad y estadística van a ser de gran utilidad para aprovechar al máximo la cursada.
+
 Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a punto.
 
 ### Python
@@ -27,7 +35,12 @@ Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a pu
 
 
 ## Cómo colaborar con la bibliografía
-Si conocés cursos o tutoriales que puedan servir para compartir con otros estudiantes como bibliografía inicial podés realizar un [Pull Request](https://github.com/acamica/biblio-ds/pulls) para que lo agreguemos a la lista. 
+Si conoces cursos o tutoriales que puedan servir para compartir con otros/as estudiantes como bibliografía inicial puedes hacer un Pull Request para que lo agreguemos a la lista. 
+
+¿Nunca hiciste un Pull Request?
+1. Crea tu cuenta de Github
+2. Forkea el repositorio a tu cuenta (clickeando en "Fork")
+3. Haz un [Pull Request](https://github.com/acamica/biblio-ds/pulls)
 
 
 
