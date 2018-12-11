@@ -32,6 +32,7 @@ Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a pu
 ### Libros recomendados para acompañar la cursada
 - [Hands-On ML](https://github.com/ageron/handson-ml)
 - [Python For Data Analysis](https://www.amazon.es/Python-Data-Analysis-Wes-McKinney/dp/1491957662/ref=dp_ob_title_bk)
+- [Data Clustering](http://www.charuaggarwal.net/clusterbook.pdf)
 
 
 ## Cómo colaborar con la bibliografía
