@@ -29,10 +29,11 @@ Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a pu
 - [Curso introductorio en Khan Academy](https://es.khanacademy.org/math/statistics-probability/probability-library)
 - [Listado de cursos sobre distribuciones, estadística y visualización en Khan Academy](https://es.khanacademy.org/math/statistics-probability)
 
-### Libros recomendados para acompañar la cursada
+### Libros y videos recomendados para acompañar la cursada
 - [Hands-On ML](https://github.com/ageron/handson-ml)
 - [Python For Data Analysis](https://www.amazon.es/Python-Data-Analysis-Wes-McKinney/dp/1491957662/ref=dp_ob_title_bk)
 - [Data Clustering](http://www.charuaggarwal.net/clusterbook.pdf)
+- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 
 ## Cómo colaborar con la bibliografía
