@@ -1,9 +1,7 @@
 # Recursos previos a Data Science en Acámica
 Este es un repo para las y los ansiosos casi-estudiantes de Acámica. Si ya te inscribiste a una comisión, abajo encontrarás algunos conceptos que te van a ser útiles en la carrera para ir aprendiendo. 
 
-Si no te inscribiste todavía, te esperamos [aquí](https://www.acamica.com/data-science).
-
-Esta lista te puede ser útil como punto de partida para entrar al mundo de ciencia de datos incluso aunque no quieras estudiar Data Science con nosotros. No te vamos a mentir, nos rompe el corazón, pero nos gusta tu compañía aunque sea una visita breve <3 
+> Si no te inscribiste todavía, te esperamos [aquí](https://www.acamica.com/data-science).
 
 *¿Te interesa colaborar a la lista de recursos? Mandanos un PR.*
 
