@@ -18,12 +18,14 @@ No existen requisitos previos para realizar la carrera pero una base en programa
 Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a punto.
 
 ### Python
+- [Curso para principiantes en Python](https://www.youtube.com/watch?v=G2FCfQj-9ig)
 - [Curso interactivo de Python](https://www.learnpython.org/es/)
 - [Tutorial de Python Argentina](http://docs.python.org.ar/tutorial/3/index.html)
 - [Curso de fundamentos básicos de python para Data Science edX](https://www.edx.org/es/course/python-basics-for-data-science-ibm) (en inglés)
 - [Fundamentos de la programación en Python en Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036) (en inglés)
 
 ### Probabilidad y estadística
+- [Libro de estadística básica](http://webs.ucm.es/info/Astrof/users/jaz/ESTADISTICA/libro_GCZ2009.pdf)
 - [Curso introductorio en Khan Academy](https://es.khanacademy.org/math/statistics-probability/probability-library)
 - [Listado de cursos sobre distribuciones, estadística y visualización en Khan Academy](https://es.khanacademy.org/math/statistics-probability)
 
